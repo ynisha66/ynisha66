@@ -15,7 +15,7 @@
 **Quality Assurance Engineer – Innobit Systems**  
 📍 Greater Noida | 🗓️ Oct 2023 – Present
 
-- Designed and executed 7000+ test cases for web/mobile applications.
+- Designed and executed 5000+ test cases for web/mobile applications.
 - Performed E2E testing: Functional, UI, API, Regression, and Performance.
 - Reduced bug resolution time by 40% via effective defect analysis.
 - Worked on multiple client projects from planning to production.
