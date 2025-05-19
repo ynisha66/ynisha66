@@ -22,13 +22,13 @@
 
 #### 🔹 Key Projects:
 
-- **Hyper Spectral Remote Sensing** (Nov 2023 – Dec 2023):  
+- **Satellite Mission Control System** (Nov 2023 – Dec 2023):  
   Tested satellite control systems using API, cron jobs, and database validations.  
 
-- **BIBLIOTHECA – Next Gen Library System** (Jan 2024 – June 2024):  
+- **Library Management System** (Jan 2024 – June 2024):  
   Automated user workflows using Java, Selenium, Extent Reports.  
 
-- **Garuda – E-Commerce App** (July 2024 – Present):  
+- **Books & Machinery E-Commerce Solutions** (July 2024 – Present):  
   Led QA for UI, API, and security modules. Combined manual and automation testing using Java & Selenium.
 
 ---
