@@ -34,4 +34,4 @@ Java | Selenium | TestNG | Maven | Postman | JMeter | Git | Jenkins | Jira | DBM
 ### 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nisha--yadav66-blue)](https://linkedin.com/in/nisha-yadav66)  
-[![GitHub](https://img.shields.io/badge/GitHub-your--github--username-black)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-ynisha66-black)](https://github.com/ynisha66)
